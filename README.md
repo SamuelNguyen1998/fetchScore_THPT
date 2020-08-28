@@ -15,5 +15,3 @@ npm start
 ```
 File được fetch sẽ có dạng “mãSở_grade12.csv". Bạn có thể dùng Excel để import vào.
 
-## Credits
-- https://github.com/pr0f3ss0r-b/fetchscore_grade12_hcm_2019
